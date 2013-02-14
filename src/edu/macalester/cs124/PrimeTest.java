@@ -2,6 +2,9 @@ package edu.macalester.cs124;
 
 import acm.program.ConsoleProgram;
 
+
+// This is Paul testing git.
+
 public class PrimeTest extends ConsoleProgram {
     public void run() {
         println(largestPrimeLessThan(26));
